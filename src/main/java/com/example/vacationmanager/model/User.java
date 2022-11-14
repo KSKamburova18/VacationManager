@@ -1,4 +1,4 @@
-package com.example.vacationmanager;
+package com.example.vacationmanager.model;
 
 public class User {
     private String username;
